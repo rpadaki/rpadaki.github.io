@@ -3,35 +3,35 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://rpadaki.github.io/posts/first-post/</loc>
+    <loc>https://rpadaki.github.io/posts/first-post/</loc>
     <lastmod>2019-02-27T13:45:24-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://rpadaki.github.io/categories/</loc>
+    <loc>https://rpadaki.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://rpadaki.github.io/tags/getting-started/</loc>
-    <lastmod>2019-02-27T13:45:24-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://rpadaki.github.io/posts/</loc>
+    <loc>https://rpadaki.github.io/tags/getting-started/</loc>
     <lastmod>2019-02-27T13:45:24-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://rpadaki.github.io/</loc>
+    <loc>https://rpadaki.github.io/posts/</loc>
     <lastmod>2019-02-27T13:45:24-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://rpadaki.github.io/tags/</loc>
+    <loc>https://rpadaki.github.io/</loc>
+    <lastmod>2019-02-27T13:45:24-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rpadaki.github.io/tags/</loc>
     <lastmod>2019-02-27T13:45:24-05:00</lastmod>
     <priority>0</priority>
   </url>
