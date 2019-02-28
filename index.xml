@@ -24,8 +24,9 @@
 $$\LaTeX,$$
 such as
 $$\sum_{x\in X}{f(x)}&amp;lt;3.$$
-We can even to inline stuff: \(3\times 3\)
-Does \(\text{inline}\) work?
+We can even to inline stuff: \(3\times 3\)&lt;/p&gt;
+
+&lt;p&gt;Does \(\text{inline}\) work?
 &lt;em&gt;It seems to!&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;We might even be able to include music!&lt;/p&gt;
