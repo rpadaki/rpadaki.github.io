@@ -12,12 +12,14 @@
     
     
     <item>
-      <title>First Post</title>
+      <title>Test Post</title>
       <link>https://rpadaki.github.io/posts/first-post/</link>
       <pubDate>Wed, 27 Feb 2019 13:45:24 -0500</pubDate>
       
       <guid>https://rpadaki.github.io/posts/first-post/</guid>
-      <description>Hello! Let&amp;rsquo;s see if this is actually working now!</description>
+      <description>&lt;p&gt;Hello! Let&amp;rsquo;s see if this is actually working now! The name&amp;rsquo;s Roshan; I&amp;rsquo;m currently a junior at Harvard studying math, and I&amp;rsquo;ve been curious lately about the creative things I might be able to work on online.&lt;/p&gt;
+
+&lt;p&gt;More seriously, the primary goal here is to create a parody website of my roommate&amp;rsquo;s own site. The first step is to reverse-engineer his setup, which includes &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     
   </channel>
